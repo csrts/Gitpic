@@ -1,1 +1,1 @@
-{"name":"EpicGames","task":[{"0 9 */7 * * https:\/\/raw.githubusercontent.com\/Peng-YM\/QuanX\/master\/Tasks\/epic.js, img-url=https:\/\/raw.githubusercontent.com\/Orz-3\/mini\/master\/Color\/epic.png, tag=Epic周免, enabled=true"}],"description":"每周Epic游戏限免提醒。"}
+{"name":"EpicGames","task":[{"config":"0 9 */7 * * https:\/\/raw.githubusercontent.com\/Peng-YM\/QuanX\/master\/Tasks\/epic.js, img-url=https:\/\/raw.githubusercontent.com\/Orz-3\/mini\/master\/Color\/epic.png, tag=Epic周免, enabled=true"}],"description":"每周Epic游戏限免提醒。"}
