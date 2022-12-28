@@ -1,0 +1,1 @@
+{"name":"饿了么","task":[{"config":"1 0 * * * https:\/\/raw.githubusercontent.com\/songyangzz\/QuantumultX\/master\/elem\/elemSign.js, img-url=https:\/\/qxnav.com\/rules\/QuantumultX\/img\/elem.png, tag=饿了么, enabled=true"}],"description":"饿了么签到"}
